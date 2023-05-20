@@ -1,0 +1,634 @@
+source,target,depth
+Rimmed_carbonate_platform,RCP,1
+FZ1,Rimmed_carbonate_platform,2
+FZ2,Rimmed_carbonate_platform,2
+FZ3,Rimmed_carbonate_platform,2
+FZ4,Rimmed_carbonate_platform,2
+FZ5,Rimmed_carbonate_platform,2
+FZ6,Rimmed_carbonate_platform,2
+FZ7,Rimmed_carbonate_platform,2
+FZ8,Rimmed_carbonate_platform,2
+FZ9,Rimmed_carbonate_platform,2
+FZ10,Rimmed_carbonate_platform,2
+Deep_water_basin,FZ1,1
+Deep_shelf,FZ2,1
+Toe_of_slope,FZ3,1
+Slope,FZ4,1
+Platform_margin_reefs,FZ5,1
+Platform_margin_shoals,FZ6,1
+Open_platform,FZ7,1
+Restricted_platform,FZ8,1
+Evaporites_platform,FZ9,1
+Meteoric_freshwater_zone,FZ10,1
+SMF1,FZ1,2
+SMF2,FZ1,3
+SMF3,FZ1,2
+SMF4,FZ1,3
+SMF12S,FZ1,8
+SMF1,FZ2,2
+SMF2,FZ2,3
+SMF8,FZ2,2
+SMF9,FZ2,2
+SMF10,FZ2,2
+SMF12S,FZ2,8
+SMF2,FZ3,3
+SMF3,FZ3,2
+SMF4,FZ3,3
+SMF12S,FZ3,8
+SMF4,FZ4,3
+SMF5,FZ4,1
+SMF6,FZ4,1
+SMF12C,FZ4,3
+SMF12S,FZ4,8
+SMF16L,FZ4,4
+SMF7,FZ5,1
+SMF11,FZ5,2
+SMF12C,FZ5,3
+SMF12S,FZ5,8
+SMF16L,FZ5,4
+SMF11,FZ6,8
+SMF12S,FZ6,3
+SMF13,FZ6,3
+SMF15C,FZ6,2
+SMF8,FZ7,2
+SMF9,FZ7,2
+SMF10,FZ7,2
+SMF12S,FZ7,8
+SMF13,FZ7,3
+SMF15C,FZ7,2
+SMF16L,FZ7,4
+SMF17,FZ7,2
+SMF18,FZ7,2
+SMF20,FZ7,3
+SMF12S,FZ8,8
+SMF12S,FZ8,8
+SMF15M,FZ8,2
+SMF15R,FZ8,2
+SMF16NL,FZ8,1
+SMF17,FZ8,2
+SMF18,FZ8,2
+SMF19,FZ8,2
+SMF20,FZ8,3
+SMF21,FZ8,2
+SMF22,FZ8,1
+SMF23,FZ8,2
+SMF24,FZ8,1
+SMF15R,FZ9,2
+SMF15M,FZ9,2
+SMF16L,FZ9,4
+SMF19,FZ9,2
+SMF20,FZ9,3
+SMF21,FZ9,2
+SMF23,FZ9,2
+SMF25,FZ9,1
+SMF26,FZ10,1
+MSD26,SMF1,1
+MSD25,SMF2,1
+MSD24,SMF3,1
+MSD23,SMF4,1
+MSD22,SMF5,1
+MSD21,SMF6,1
+MSD20,SMF7,1
+MSD19,SMF8,1
+MSD18,SMF9,1
+MSD17,SMF10,1
+MSD16,SMF11,1
+MSD15,SMF12S,1
+MSD15,SMF12C,1
+MSD14,SMF13,1
+MSD12,SMF15C,1
+MSD12,SMF15R,1
+MSD12,SMF15M,1
+MSD11,SMF16L,1
+MSD11,SMF16NL,1
+MSD10,SMF17,1
+MSD9,SMF18,1
+MSD8,SMF19,1
+MSD7,SMF20,1
+MSD6,SMF21,1
+MSD5,SMF22,1
+MSD4,SMF23,1
+MSD3,SMF24,1
+MSD2,SMF25,1
+MSD1,SMF26,1
+Grain_Tyes_micro-bioclast,G1t,10
+Grain_content_common,G1c,10
+Matrix_Tyes_micro-bioclast,M1t,10
+Matrix_content_common,M1c,10
+Depositional_fabrics_sponge spicules oriented alignment,D1t,10
+Fossils_Tyes_siliceous sponge spicule,F1t,10
+Fossils_Tyes_calcified sponge spicule,F1t,10
+Fossils_content_abundant,F1c,10
+Texture_types_mudstone,T1t,10
+Texture_types_wackestone,T1t,10
+Grain_Tyes_pelagic microfossil,G2t,4
+Depositional_fabrics_small-scale ripple cross-lamination and laminae,D2t,4
+Fossils_Tyes_echinoderm and mollusk,F2t,4
+Fossils_content_abundant,F2c,4
+Matrix_Tyes_micrite,M3t,7
+Matrix_content_abundant,M3c,7
+Fossils_Tyes_spicule_calpionellid,F3t,7
+Fossils_Tyes_pelagic foraminifera,F3t,7
+Fossils_Tyes_radiolarian,F3t,7
+Fossils_Tyes_tentaculitid,F3t,7
+Fossils_content_abundant,F3c,7
+Grain_Tyes_microbreccia,G4t,9
+Grain_Tyes_bioclastic,G4t,9
+Grain_Tyes_lithoclastic,G4t,9
+Grain_content_common,G4c,9
+Grain_sorting_poor sort,G4s,9
+Grain_rounding_commonly worn and rounded,G4r,9
+Texture_types_packstone,T4t,9
+Texture_types_rudstone,T4t,9
+Depositional_fabrics_grading texture,D4t,9
+Grain_Tyes_allochthonous bioclastic,G5t,8
+Texture_types_grainstone,T5t,8
+Texture_types_rudstone,T5t,8
+Texture_types_packstone and floatstone,T5t,8
+Texture_types_breccia,T5t,8
+Texture_types_densely packed,T5t,8
+Texture_types_chaotic order,T6t,8
+Depositional_fabrics_turbidite sequence,D5t,8
+Grain_Tyes_biogenic material,G6t,11
+Grain_Tyes_lithified sediment,G6t,11
+Grain_content_abundant,G6c,11
+Grain_size_coarse gravel,G6ss,11
+Grain_size_some millimeters to tens of centimeter,G6ss,11
+Grain_sorting_well sort,G6s,11
+Grain_sorting_bad sort,G6s,11
+Matrix_Tyes_micrite,M6t,11
+Matrix_content_a few,M6c,11
+Texture_types_rudstone,T6t,11
+Texture_types_densely packed,T6t,11
+Grain_Tyes_bioclastic,G7t,7
+Grain_content_common,G7c,7
+Depositional_fabrics_framestone,D7t,7
+Depositional_fabrics_bafflestone,D7t,7
+Depositional_fabrics_bindstone,D7t,7
+Texture_types_boundstones,T7t,7
+Texture_types_in-situ organic growth of potential reefbuilder,T7t,7
+Grain_Tyes_micro-bioclast,G8t,12
+Grain_content_common,G8c,12
+Matrix_Tyes_micrite,M8t,12
+Matrix_content_common,M8c,12
+Depositional_fabrics_strongly burrowed,D8t,12
+Texture_types_wackestone,T8t,12
+Texture_types_floatstone,T8t,12
+Fossils_Tyes_mollusk,F8t,12
+Fossils_Tyes_sponge,F8t,12
+Fossils_Tyes_coral,F8t,12
+Fossils_Tyes_some calcareous algae,F8t,12
+Fossils_content_abundant,F8c,12
+Grain_Tyes_bioclastic,G9t,11
+Grain_content_common,G9c,11
+Matrix_Tyes_micrite,M9t,11
+Matrix_content_common,M9c,11
+Depositional_fabrics_strongly burrowed,D9t,11
+Texture_types_wackestone,T9t,11
+Fossils_Tyes_crinoid,F9t,11
+Fossils_Tyes_brachiopod,F9t,11
+Fossils_Tyes_bryozoan,F9t,11
+Fossils_Tyes_scattered rugose coral,F9t,11
+Fossils_content_commom,F9c,11
+Grain_Tyes_skeletal,G10t,4
+Matrix_Tyes_fine grained matrix,M10t,4
+Matrix_content_common,M10c,4
+Texture_types_packstone and wackestone,T10t,4
+Grain_Tyes_bioclastic,G11t,7
+Grain_Tyes_intraclast,G11t,7
+Grain_Tyes_peloid,G11t,7
+Grain_Tyes_ooid,G11t,7
+Grain_content_abundant,G11c,7
+Texture_types_sparry cement,T11t,7
+Texture_types_grainstone,T11t,7
+Grain_Tyes_bioclastic,G12St,14
+Grain_content_common,G12Sc,14
+Texture_types_rudstones,T12St,14
+Texture_types_densely packed floatstone,T12St,14
+Fossils_Tyes_bivalve,F12St,14
+Fossils_Tyes_brachiopod,F12St,14
+Fossils_Tyes_gastropod,F12St,14
+Fossils_content_abundant,F12Sc,14
+Grain_Tyes_bioclastic,G12Ct,14
+Grain_content_commom,G12Cc,14
+Texture_types_rudstone,T12Ct,14
+Texture_types_densely packed floatstone,T12Ct,14
+Fossils_Tyes_crinoid,F12Ct,14
+Fossils_content_abundant,F12Cc,14
+Grain_Tyes_oncoid,G13t,7
+Grain_content_abundant,G13c,7
+Grain_size_millimeter- to centimeter-sized,G13ss,7
+Texture_types_rudstone and grainstone,T13t,7
+Texture_types_grain-supported fabric,T13t,7
+Fossils_Tyes_cyanoid and porostromate,F13t,7
+Fossils_content_abundant,F13c,7
+Grain_Tyes_oolite,G15Ct,19
+Grain_content_abundant,G15Cc,19
+Grain_sorting_well sort,G15Cs,19
+Grain_rounding_round,G15Cr,19
+Depositional_fabrics_cross beddeding,D15Ct,19
+"Texture_types_grainstones, overpacked",T15Ct,19
+Grain_Tyes_ooid,G15Rt,19
+Grain_content_abundant,G15Rc,19
+Grain_sorting_poor sort,G15Rs,19
+Grain_rounding_highly irregularly shaped,G15Rr,19
+Depositional_fabrics_cross beddeding,D15Rt,19
+Texture_types_grainstone,T15Rt,19
+Grain_Tyes_ooid,G15Mt,19
+Grain_content_common,G15Mc,19
+Grain_size_wide range in sizes,G15Mss,19
+Grain_sorting_poor sort,G15Ms,19
+Matrix_Tyes_micrite,M15Mt,19
+Matrix_content_common,M15Mc,19
+Texture_types_wackestone,T15Mt,19
+Grain_Tyes_peloid,G16Lt,18
+Grain_content_abundant,G16Lc,18
+Grain_size_different size,G16Lss,18
+Grain_sorting_bad sort,G16Ls,18
+Grain_rounding_high roundness,G16Lr,18
+Fossils_Tyes_microbial or algal,F16Lt,18
+Fossils_content_a few,F16Lc,18
+Depositional_fabrics_laminated,D16Lt,18
+Grain_Tyes_peloid,G16NLt,18
+Grain_content_abundant,G16NLc,18
+Grain_sorting_well sort,G16NLs,18
+Grain_rounding_sub-round or subangular,G16NLr,18
+Fossils_Tyes_benthic foraminifera,F16NLt,18
+Fossils_Tyes_ostracod,F16NLt,18
+Fossils_Tyes_calcisphere,F16NLt,18
+Fossils_content_commom,F16NLc,18
+Depositional_fabrics_non-laminated,D16NLt,18
+Texture_types_grainstone,T16NLt,18
+Grain_Tyes_consist predominantly of arenitic and ruditic lumps and grapestone,G17t,5
+Grain_content_abundant,G17c,5
+Fossils_Tyes_foraminifera and algae,F17t,5
+Fossils_content_common,F17c,5
+Texture_types_grainstone,T17t,5
+Grain_Tyes_bioclastic,G18t,8
+Grain_Tyes_peloid,G18t,8
+Grain_Tyes_cortoid,G18t,8
+Grain_Tyes_composite grain,G18t,8
+Grain_content_abundant,G18c,8
+Fossils_Tyes_benthic foraminifera or calcareous green algae,F18t,8
+Fossils_content_abundant,F18c,8
+Texture_types_grainstone and packstone,T18t,8
+Grain_Tyes_peloid,G19t,8
+Depositional_fabrics_laminated,D19t,8
+Fossils_Tyes_ostracod,F19t,8
+Fossils_Tyes_foraminifera,F19t,8
+Fossils_Tyes_gastropod,F19t,8
+Fossils_content_a few,F19c,8
+Matrix_Tyes_micrite,M19t,8
+Matrix_content_abundant,M19c,8
+Grain_Tyes_fine-or coarse-grained,G20t,5
+Fossils_Tyes_microbial or algal,F20t,5
+Fossils_content_a few,F20c,5
+Depositional_fabrics_dome-shaped laminated,D20t,5
+Texture_types_bindstone,T20t,5
+Grain_Tyes_packstone and bindstone,G21t,5
+Fossils_Tyes_ostracod,F21t,5
+Fossils_Tyes_foraminifera,F21t,5
+Fossils_content_a few,F21c,5
+Depositional_fabrics_fenestral,D21t,5
+Grain_Tyes_oncoid,G22t,4
+Fossils_Tyes_microbes and algae,F22t,4
+Fossils_content_abundant,F22c,4
+Texture_types_trapped and bound together by non-skeletal microbes and algae,T22t,4
+Matrix_Tyes_micrite and microsparite,M23t,4
+Matrix_content_abundant,M23c,4
+Texture_types_homogeneous,T23t,4
+Depositional_fabrics_non-laminated,D23t,4
+Grain_Tyes_floatstone,G24t,10
+Grain_Tyes_rudstone,G24t,10
+Grain_Tyes_breccia,G24t,10
+Grain_content_abundant,G24c,10
+Grain_size_coarse,G24ss,10
+Grain_size_up to several centimeter-sized,G24ss,10
+Grain_sorting_bad sort,G24s,10
+Grain_rounding_angular,G24r,10
+Texture_types_edgewise arranged,T24t,10
+Depositional_fabrics_sometimes cross-bedded,D24t,10
+Matrix_Tyes_crystals_fine-crystalline carbonate with evaporite crystal,M25t,3
+Matrix_content_abundant,M25c,3
+Depositional_fabrics_laminated,D25t,3
+Grain_Tyes_pisoid,G26t,5
+Grain_content_abundant,G26c,5
+Grain_size_>2.0mm,G26ss,5
+"Texture_types_rudstone and packstone, densely packed",T26t,5
+Depositional_fabrics_associated with tepee structure,D26t,5
+G1t,G1,2
+G1c,G1,2
+M1t,M1,2
+M1c,M1,2
+D1t,D1,1
+F1t,F1,2
+F1c,F1,2
+T1t,T1,1
+G2t,G2,1
+D2t,D2,1
+F2t,F2,2
+F2c,F2,2
+M3t,M3,2
+M3c,M3,2
+F3t,F3,2
+F3c,F3,2
+G4t,G4,4
+G4c,G4,4
+G4s,G4,4
+G4r,G4,4
+D4t,D4,1
+T4t,T4,1
+G5t,G5,1
+D5t,D5,1
+T5t,T5,1
+G6t,G6,4
+G6c,G6,4
+G6ss,G6,4
+G6s,G6,4
+M6t,M6,2
+M6c,M6,2
+T6t,T6,1
+G7t,G7,2
+G7c,G7,2
+D7t,D7,1
+T7t,T7,1
+G8t,G8,2
+G8c,G8,2
+M8t,M8,2
+M8c,M8,2
+D8t,D8,1
+T8t,T8,1
+F8t,F8,2
+F8c,F8,2
+G9t,G9,2
+G9c,G9,2
+M9t,M9,2
+M9c,M9,2
+D9t,D9,1
+T9t,T9,1
+F9t,F9,2
+F9c,F9,2
+G10t,G10,1
+M10t,M10,2
+M10c,M10,2
+T10t,T10,1
+G11t,G11,2
+G11c,G11,2
+T11t,T11,1
+G12St,G12S,2
+G12Sc,G12S,2
+T12St,T12S,1
+F12St,F12S,2
+F12Sc,F12S,2
+G12Ct,G12C,2
+G12Cc,G12C,2
+T12Ct,T12C,1
+F12Ct,F12C,2
+F12Cc,F12C,2
+G13t,G13,3
+G13c,G13,3
+G13ss,G13,3
+T13t,T13,1
+F13t,F13,2
+F13c,F13,2
+G15Ct,G15C,4
+G15Cc,G15C,4
+G15Cs,G15C,4
+G15Cr,G15C,4
+D15Ct,D15C,1
+T15Ct,T15C,1
+G15Rt,G15R,4
+G15Rc,G15R,4
+G15Rs,G15R,4
+G15Rr,G15R,4
+D15Rt,D15R,1
+T15Rt,T15R,1
+G15Mt,G15M,4
+G15Mc,G15M,4
+G15Mss,G15M,4
+G15Ms,G15M,4
+M15Mt,M15M,2
+M15Mc,M15M,2
+T15Mt,T15M,1
+G16Lt,G16L,5
+G16Lc,G16L,5
+G16Lss,G16L,5
+G16Ls,G16L,5
+G16Lr,G16L,5
+F16Lt,F16L,2
+F16Lc,F16L,2
+D16Lt,D16L,1
+G16NLt,G16NL,4
+G16NLc,G16NL,4
+G16NLs,G16NL,4
+G16NLr,G16NL,4
+F16NLt,F16NL,2
+F16NLc,F16NL,2
+D16NLt,D16NL,1
+T16NLt,T16NL,1
+G17t,G17,2
+G17c,G17,2
+G17t,F17,2
+F17c,F17,2
+T17t,T17,1
+G18t,G18,2
+G18c,G18,2
+G18t,F18,2
+F18c,F18,2
+T18t,T18,1
+G19t,G19,1
+D19t,D19,1
+M19t,M19,2
+M19c,M19,2
+G19t,F19,2
+F19c,F19,2
+G20t,G20,1
+G20t,F20,2
+F20c,F20,2
+D20t,D20,1
+T20t,T20,1
+G21t,G21,1
+G21t,F21,2
+F21c,F21,2
+D21t,D21,1
+G22t,G22,1
+G22t,F22,2
+F22c,F22,2
+T22t,T22,1
+M23t,M23,2
+M23c,M23,2
+D23t,D23,1
+T23t,T23,1
+G24t,G24,5
+G24c,G24,5
+G24ss,G24,5
+G24s,G24,5
+G24r,G24,5
+D24t,D24,1
+T24t,T24,1
+M25t,M25,2
+M25c,M25,2
+D25t,D25,1
+G26t,G26,3
+G26c,G26,3
+G26ss,G26,3
+D26t,D26,1
+T26t,T26,1
+G1,SMF1,1
+G1,SMF1,1
+M1,SMF1,1
+M1,SMF1,1
+D1,SMF1,1
+F1,SMF1,1
+F1,SMF1,1
+T1,SMF1,1
+G2,SMF2,1
+D2,SMF2,1
+F2,SMF2,1
+F2,SMF2,1
+M3,SMF3,1
+M3,SMF3,1
+F3,SMF3,1
+F3,SMF3,1
+G4,SMF4,1
+G4,SMF4,1
+G4,SMF4,1
+G4,SMF4,1
+D4,SMF4,1
+T4,SMF4,1
+G5,SMF5,1
+D5,SMF5,1
+T5,SMF5,1
+G6,SMF6,1
+G6,SMF6,1
+G6,SMF6,1
+G6,SMF6,1
+M6,SMF6,1
+M6,SMF6,1
+T6,SMF6,1
+G7,SMF7,1
+G7,SMF7,1
+D7,SMF7,1
+T7,SMF7,1
+G8,SMF8,1
+G8,SMF8,1
+M8,SMF8,1
+M8,SMF8,1
+D8,SMF8,1
+T8,SMF8,1
+F8,SMF8,1
+F8,SMF8,1
+G9,SMF9,1
+G9,SMF9,1
+M9,SMF9,1
+M9,SMF9,1
+D9,SMF9,1
+T9,SMF9,1
+F9,SMF9,1
+F9,SMF9,1
+G10,SMF10,1
+M10,SMF10,1
+M10,SMF10,1
+T10,SMF10,1
+G11,SMF11,1
+G11,SMF11,1
+T11,SMF11,1
+G12S,SMF12,1
+G12S,SMF12,1
+T12S,SMF12,1
+F12S,SMF12,1
+F12S,SMF12,1
+G12C,SMF12,1
+G12C,SMF12,1
+T12C,SMF12,1
+F12C,SMF12,1
+F12C,SMF12,1
+G13,SMF13,1
+G13,SMF13,1
+G13,SMF13,1
+T13,SMF13,1
+F13,SMF13,1
+F13,SMF13,1
+G15C,SMF15,1
+G15C,SMF15,1
+G15C,SMF15,1
+G15C,SMF15,1
+D15C,SMF15,1
+T15C,SMF15,1
+G15R,SMF15,1
+G15R,SMF15,1
+G15R,SMF15,1
+G15R,SMF15,1
+D15R,SMF15,1
+T15R,SMF15,1
+G15M,SMF15,1
+G15M,SMF15,1
+G15M,SMF15,1
+G15M,SMF15,1
+M15M,SMF15,1
+M15M,SMF15,1
+T15M,SMF15,1
+G16L,SMF16,1
+G16L,SMF16,1
+G16L,SMF16,1
+G16L,SMF16,1
+G16L,SMF16,1
+F16L,SMF16,1
+F16L,SMF16,1
+D16L,SMF16,1
+G16NL,SMF16,1
+G16NL,SMF16,1
+G16NL,SMF16,1
+G16NL,SMF16,1
+F16NL,SMF16,1
+F16NL,SMF16,1
+D16NL,SMF16,1
+T16NL,SMF16,1
+G17,SMF17,1
+G17,SMF17,1
+F17,SMF17,1
+F17,SMF17,1
+T17,SMF17,1
+G18,SMF18,1
+G18,SMF18,1
+F18,SMF18,1
+F18,SMF18,1
+T18,SMF18,1
+G19,SMF19,1
+D19,SMF19,1
+M19,SMF19,1
+M19,SMF19,1
+F19,SMF19,1
+F19,SMF19,1
+G20,SMF20,1
+F20,SMF20,1
+F20,SMF20,1
+D20,SMF20,1
+T20,SMF20,1
+G21,SMF21,1
+F21,SMF21,1
+F21,SMF21,1
+D21,SMF21,1
+G22,SMF22,1
+F22,SMF22,1
+F22,SMF22,1
+T22,SMF22,1
+M23,SMF23,1
+M23,SMF23,1
+D23,SMF23,1
+T23,SMF23,1
+G24,SMF24,1
+G24,SMF24,1
+G24,SMF24,1
+G24,SMF24,1
+G24,SMF24,1
+D24,SMF24,1
+T24,SMF24,1
+M25,SMF25,1
+M25,SMF25,1
+D25,SMF25,1
+G26,SMF26,1
+G26,SMF26,1
+G26,SMF26,1
+D26,SMF26,1
+T26,,1
